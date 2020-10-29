@@ -24,7 +24,7 @@ The first step is choosing which language you want to use. This is a good way fo
 
 ![akaunting install database](_images/install_database.png)
 
-You need to fill in the fields by adding the database connection details (Hostname, Username, Password and Database Name). 
+You need to fill in the fields by adding the database connection details (Hostname, Username, Password and Database Name). You will need to create the data base First. See your web hosting service for instructions on how.
 
 ### Step 3. Admin
 
